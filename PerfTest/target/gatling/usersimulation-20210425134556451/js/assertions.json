@@ -1,0 +1,10 @@
+{
+  "simulation": "performance.UserSimulation",
+  "simulationId": "usersimulation",
+  "start": 1619358356451,
+  "description": "",
+  "scenarios": ["get all users"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,301 @@
+RUN	performance.UserSimulation	usersimulation	1619358356451	 	3.5.0
+USER	get all users	START	1619358356872
+USER	get all users	START	1619358356589
+USER	get all users	START	1619358356896
+USER	get all users	START	1619358356543
+USER	get all users	START	1619358356649
+USER	get all users	START	1619358356852
+USER	get all users	START	1619358356976
+USER	get all users	START	1619358356957
+USER	get all users	START	1619358356791
+USER	get all users	START	1619358356913
+USER	get all users	START	1619358356708
+USER	get all users	START	1619358356932
+USER	get all users	START	1619358356565
+USER	get all users	START	1619358356813
+USER	get all users	START	1619358356669
+USER	get all users	START	1619358356751
+USER	get all users	START	1619358356772
+USER	get all users	START	1619358356692
+USER	get all users	START	1619358356996
+USER	get all users	START	1619358356536
+USER	get all users	START	1619358356834
+USER	get all users	START	1619358356729
+USER	get all users	START	1619358356629
+USER	get all users	START	1619358356607
+USER	get all users	START	1619358357118
+USER	get all users	START	1619358357119
+USER	get all users	START	1619358357118
+USER	get all users	START	1619358357120
+USER	get all users	START	1619358357122
+USER	get all users	START	1619358357123
+USER	get all users	START	1619358357136
+USER	get all users	START	1619358357157
+USER	get all users	START	1619358357177
+USER	get all users	START	1619358357240
+USER	get all users	START	1619358357240
+USER	get all users	START	1619358357240
+USER	get all users	START	1619358357258
+USER	get all users	START	1619358357276
+USER	get all users	START	1619358357299
+USER	get all users	START	1619358357315
+USER	get all users	START	1619358357339
+USER	get all users	START	1619358357359
+USER	get all users	START	1619358357376
+USER	get all users	START	1619358357396
+USER	get all users	START	1619358357416
+USER	get all users	START	1619358357439
+USER	get all users	START	1619358357457
+USER	get all users	START	1619358357477
+USER	get all users	START	1619358357501
+USER	get all users	START	1619358357516
+USER	get all users	START	1619358357539
+USER	get all users	START	1619358357557
+USER	get all users	START	1619358357577
+USER	get all users	START	1619358357599
+USER	get all users	START	1619358357617
+USER	get all users	START	1619358357639
+USER	get all users	START	1619358357658
+USER	get all users	START	1619358357677
+USER	get all users	START	1619358357697
+USER	get all users	START	1619358357722
+USER	get all users	START	1619358357739
+USER	get all users	START	1619358357760
+USER	get all users	START	1619358357780
+USER	get all users	START	1619358357800
+USER	get all users	START	1619358357820
+USER	get all users	START	1619358357839
+USER	get all users	START	1619358357860
+USER	get all users	START	1619358357881
+USER	get all users	START	1619358357900
+USER	get all users	START	1619358357922
+USER	get all users	START	1619358357940
+USER	get all users	START	1619358357961
+USER	get all users	START	1619358357981
+USER	get all users	START	1619358357999
+USER	get all users	START	1619358358022
+USER	get all users	START	1619358358040
+USER	get all users	START	1619358358060
+USER	get all users	START	1619358358081
+USER	get all users	START	1619358358102
+USER	get all users	START	1619358358122
+USER	get all users	START	1619358358142
+USER	get all users	START	1619358358163
+USER	get all users	START	1619358358179
+USER	get all users	START	1619358358199
+USER	get all users	START	1619358358222
+USER	get all users	START	1619358358239
+USER	get all users	START	1619358358281
+USER	get all users	START	1619358358260
+USER	get all users	START	1619358358302
+USER	get all users	START	1619358358322
+USER	get all users	START	1619358358343
+USER	get all users	START	1619358358358
+USER	get all users	START	1619358358378
+USER	get all users	START	1619358358400
+USER	get all users	START	1619358358422
+USER	get all users	START	1619358358443
+USER	get all users	START	1619358358462
+USER	get all users	START	1619358358481
+USER	get all users	START	1619358358500
+USER	get all users	START	1619358358523
+REQUEST		GET /search?q=/shoes	1619358359979	1619358360056	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358359967	1619358360050	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358359991	1619358360067	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360025	1619358360102	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360063	1619358360139	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360072	1619358360148	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360088	1619358360164	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360063	1619358360167	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360097	1619358360175	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360096	1619358360180	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358360232	1619358360307	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361201	1619358361278	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361342	1619358361420	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361355	1619358361430	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361421	1619358361500	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361468	1619358361545	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361526	1619358361601	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361569	1619358361646	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361839	1619358361919	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358361908	1619358361986	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358362701	1619358362775	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358362699	1619358362777	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358363045	1619358363125	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358363058	1619358363134	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358363088	1619358363162	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358363141	1619358363224	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358363196	1619358363272	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358363979	1619358364057	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364113	1619358364188	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364282	1619358364358	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364317	1619358364394	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364374	1619358364451	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364398	1619358364478	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364518	1619358364599	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364344	1619358364621	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364545	1619358364623	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358364518	1619358364755	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365289	1619358365366	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365371	1619358365469	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358360067
+USER	get all users	END	1619358360067
+USER	get all users	END	1619358360070
+USER	get all users	END	1619358360105
+USER	get all users	END	1619358360143
+USER	get all users	END	1619358360151
+USER	get all users	END	1619358360167
+USER	get all users	END	1619358360169
+USER	get all users	END	1619358360185
+USER	get all users	END	1619358360187
+USER	get all users	END	1619358360309
+USER	get all users	END	1619358361280
+USER	get all users	END	1619358361421
+USER	get all users	END	1619358361431
+USER	get all users	END	1619358361501
+USER	get all users	END	1619358361548
+USER	get all users	END	1619358361602
+USER	get all users	END	1619358361649
+USER	get all users	END	1619358361921
+USER	get all users	END	1619358361987
+USER	get all users	END	1619358362776
+USER	get all users	END	1619358362778
+USER	get all users	END	1619358363127
+USER	get all users	END	1619358363137
+USER	get all users	END	1619358363165
+USER	get all users	END	1619358363226
+USER	get all users	END	1619358363274
+USER	get all users	END	1619358364058
+USER	get all users	END	1619358364189
+USER	get all users	END	1619358364360
+USER	get all users	END	1619358364396
+USER	get all users	END	1619358364452
+USER	get all users	END	1619358364479
+USER	get all users	END	1619358364600
+USER	get all users	END	1619358364624
+USER	get all users	END	1619358364625
+USER	get all users	END	1619358364756
+USER	get all users	END	1619358365367
+USER	get all users	END	1619358365469
+REQUEST		GET /search?q=/shoes	1619358365571	1619358365645	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358365646
+REQUEST		GET /search?q=/shoes	1619358365576	1619358365652	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358365653
+REQUEST		GET /search?q=/shoes	1619358365594	1619358365673	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365658	1619358365734	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365727	1619358365806	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365791	1619358365869	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365806	1619358365886	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358365917	1619358365995	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358366091	1619358366166	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358366476	1619358366554	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358366776	1619358366852	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358366792	1619358366866	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358366910	1619358366985	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358366992	1619358367066	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367028	1619358367118	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367041	1619358367124	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367210	1619358367289	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367398	1619358367471	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367698	1619358367774	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367898	1619358367974	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358367998	1619358368076	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368046	1619358368122	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368288	1619358368369	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368384	1619358368460	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368457	1619358368536	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368488	1619358368562	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368567	1619358368645	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358368674	1619358368750	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369098	1619358369172	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369563	1619358369648	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369669	1619358369746	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369686	1619358369761	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369688	1619358369762	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369766	1619358369840	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369852	1619358369933	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358369965	1619358370048	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358370716	1619358370795	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358365674
+USER	get all users	END	1619358365735
+USER	get all users	END	1619358365807
+USER	get all users	END	1619358365870
+USER	get all users	END	1619358365887
+USER	get all users	END	1619358365996
+USER	get all users	END	1619358366167
+USER	get all users	END	1619358366555
+USER	get all users	END	1619358366853
+USER	get all users	END	1619358366867
+USER	get all users	END	1619358366986
+USER	get all users	END	1619358367066
+USER	get all users	END	1619358367119
+USER	get all users	END	1619358367124
+USER	get all users	END	1619358367290
+USER	get all users	END	1619358367472
+USER	get all users	END	1619358367774
+USER	get all users	END	1619358367975
+USER	get all users	END	1619358368077
+USER	get all users	END	1619358368123
+USER	get all users	END	1619358368370
+USER	get all users	END	1619358368460
+USER	get all users	END	1619358368537
+USER	get all users	END	1619358368563
+USER	get all users	END	1619358368646
+USER	get all users	END	1619358368751
+USER	get all users	END	1619358369173
+USER	get all users	END	1619358369649
+USER	get all users	END	1619358369747
+USER	get all users	END	1619358369761
+USER	get all users	END	1619358369762
+USER	get all users	END	1619358369841
+USER	get all users	END	1619358369934
+USER	get all users	END	1619358370048
+USER	get all users	END	1619358370796
+REQUEST		GET /search?q=/shoes	1619358370806	1619358370885	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358370885
+REQUEST		GET /search?q=/shoes	1619358370927	1619358371103	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358371103
+REQUEST		GET /search?q=/shoes	1619358371097	1619358371194	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358371366	1619358371860	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358371615	1619358371860	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358372024	1619358372523	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358372368	1619358372524	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358372520	1619358372708	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358372520	1619358372708	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358372706	1619358372882	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358371194
+USER	get all users	END	1619358371860
+USER	get all users	END	1619358371860
+USER	get all users	END	1619358372524
+USER	get all users	END	1619358372525
+USER	get all users	END	1619358372709
+USER	get all users	END	1619358372709
+USER	get all users	END	1619358372883
+REQUEST		GET /search?q=/shoes	1619358372701	1619358372888	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358372701	1619358372888	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358372889
+USER	get all users	END	1619358372889
+REQUEST		GET /search?q=/shoes	1619358372883	1619358373090	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358373091
+REQUEST		GET /search?q=/shoes	1619358373572	1619358373771	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358373572	1619358373771	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358373771
+USER	get all users	END	1619358373771
+REQUEST		GET /search?q=/shoes	1619358373775	1619358373933	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358373934
+REQUEST		GET /search?q=/shoes	1619358373945	1619358374115	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358373929	1619358374115	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358374116
+USER	get all users	END	1619358374116
+REQUEST		GET /search?q=/shoes	1619358374145	1619358374295	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358374296
+REQUEST		GET /search?q=/shoes	1619358374296	1619358374441	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358374442
+REQUEST		GET /search?q=/shoes	1619358374446	1619358374623	KO	performance/SingleUser.feature:11 status 200
+REQUEST		GET /search?q=/shoes	1619358374436	1619358374623	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358374623
+USER	get all users	END	1619358374623
+REQUEST		GET /search?q=/shoes	1619358374618	1619358374699	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358374700
+REQUEST		GET /search?q=/shoes	1619358376046	1619358376124	KO	performance/SingleUser.feature:11 status 200
+USER	get all users	END	1619358376125
